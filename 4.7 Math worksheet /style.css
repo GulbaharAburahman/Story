@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: azure;
+    cursor: pointer;
+}
+
+.problem{
+   display:inline-block;
+   margin: 50px;
+
+
+}
+
+p{
+    font-size:1.52rem;
+}
+
+input{
+font-size: 1.5rem;
+margin-right: 20px;
+cursor: pointer;
+}
+
+.result{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    color: blue;
+}
+
+button{
+  width: 200px;
+   font-weight: bold;
+   border-radius: 10%;
+   background-color: greenyellow;
+   cursor: pointer;
+}
+
+

@@ -1,0 +1,47 @@
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    margin-bottom: 50px;
+
+}
+
+p{
+    font-size: 2rem;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    margin-bottom: 50px;
+
+}
+
+input{
+    width: 100px;
+    height: 50px;
+    font-size:x-large
+}
+
+
+.solution{
+    margin-top:20px;
+}
+
+button{
+    width: 100px;
+    margin-left: 300px;
+    border: none;
+    border-radius: 80%;
+    background-color: rgb(128, 128, 220);
+    border-style: inset;
+    padding: 10px;
+    color: beige;
+    font-weight: bold;
+}
+
